@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./Logo.png" height="400" width="600"/>
+  <img src="./Logo.png" height="400" width="400"/>
 <p align="center">Experiência sem fronteiras.</p>
 
 
@@ -11,7 +11,6 @@
    * [Sobre](#TriumLogistics)
    * [Sumário](#sumário)
    * [Entregas](#entregas)
-   * [Burndown](#burndown)
    * [Documentações](#documentações)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
