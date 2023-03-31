@@ -31,8 +31,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <table align="center">
   <tr>
-     <td align="center"><a href="https://github.com/Gabriel-Martins-Gazaneo"><img src="https://avatars.githubusercontent.com/u/128657389?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel<br>PO</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="PO"></a></td>    
-    <td align="center"><a href="https://github.com/marcelouchoas"><img src="https://avatars.githubusercontent.com/u/56437644?v=4" width="100px;" alt=""/><br /><sub><b>Marcelo<br>Master</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Master"></a></td>
-       <td align="center"><a href="https://github.com/Gabriel-Martins-Gazaneo"><img src="https://avatars.githubusercontent.com/u/128657389?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel<br>PO</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="PO"></a></td>    
-    <td align="center"><a href="https://github.com/marcelouchoas"><img src="https://avatars.githubusercontent.com/u/56437644?v=4" width="100px;" alt=""/><br /><sub><b>Marcelo<br>Master</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Master"></a></td> 
+     <td align="center"><a href="https://github.com/Gabriel-Martins-Gazaneo"><img src="https://avatars.githubusercontent.com/u/128657389?v=4" width="100px;" alt=""/>        <br /><sub><b>Gabriel<br>PO</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="PO"></a></td>    
+    <td align="center"><a href="https://github.com/marcelouchoas"><img src="https://avatars.githubusercontent.com/u/56437644?v=4" width="100px;" alt=""/><br /><sub>        <b>Marcelo<br>Master</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Master"></a></td>
+    <td align="center"><a href="https://github.com/marciasoaresa"><img src="https://avatars.githubusercontent.com/u/129190035?v=4" width="100px;" alt=""/><br /><sub>       <b>Márcia<br>Scrum Team</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Scrum Team"></a></td>    
+    <td align="center"><a href="https://github.com/willianWWW"><img src="https://avatars.githubusercontent.com/u/128707127?v=4" width="100px;" alt=""/><br /><sub>          <b>Willian<br>Scrum Team</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Scrum Team"></a></td> 
 </table>
