@@ -9,9 +9,7 @@
 # Sumário
 
    * [Sobre](#TriumLogistics)
-   * [Sumário](#sumário)
    * [Entregas](#entregas)
-   * [Documentações](#documentações)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
 
