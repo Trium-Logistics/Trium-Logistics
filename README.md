@@ -14,7 +14,7 @@
 
 # Entregas
 
-- [Sprint 1](https://github.com/marcelouchoas/Trium-Logistics/blob/Sprint-1/README.md) entrega realizada em 
+- [Sprint 1](https://github.com/marcelouchoas/Trium-Logistics/blob/Sprint-1/README.md) entrega realizada em 03/04/2023.
 
 
 # Tecnologias
