@@ -8,7 +8,6 @@
 
 # Sumário
 
-   * [Sobre](#TriumLogistics)
    * [Entregas](#entregas)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
