@@ -25,6 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Pacote Office] (https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web)
 - [Earth] (https://www.google.com/earth/index.html)
 - [Jira Software] (https://www.atlassian.com/br/software/jira)
+- [Power BI] (https://powerbi.microsoft.com/pt-br/)
 
 # Autores
 
