@@ -27,8 +27,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Jira Software] (https://www.atlassian.com/br/software/jira)
 - [Power BI] (https://powerbi.microsoft.com/pt-br/)
 
-# Autores
-
 
 # Autores
 
