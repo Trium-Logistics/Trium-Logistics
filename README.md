@@ -7,10 +7,17 @@
 
 
 # Sumário
-
+https://app.powerbi.com/links/x_VrtJg5hk?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+   * [Entregas](#entregas)
    * [Entregas](#entregas)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
+
+# Sprint 2 
+  
+  ## Acesso a Sprint 2
+  
+  - [Sprint 2]([https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2](https://app.powerbi.com/links/x_VrtJg5hk?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 # Entregas
 
