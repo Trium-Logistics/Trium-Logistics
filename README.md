@@ -8,7 +8,9 @@
 
 # Sumário
 
-   * [Entregas](#entregas)
+   * [Missão](#missão)
+   * [Visão](#visão)
+   * [Valores](#valores)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
   
