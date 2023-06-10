@@ -7,20 +7,40 @@
 
 
 # Sumário
-
-   * [Missão](#missão)
-   * [Visão](#visão)
-   * [Valores](#valores)
+  
+   * [Produto](#produto)
+   * [Entregas](#entregas)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
   
 
+# Produto
+Link para acessar ao produto
+  
+https://app.powerbi.com/groups/me/apps/e10b44b8-f7bb-4fff-b8ad-3b1ab583d25d/reports/ee522cfe-a273-442b-8db3-b176e02cb911/ReportSection8a681b3786a44265e039?experience=power-bi
+  
+Com as informações filtradas, foram desenvolvidas três páginas com visuais específicos, com foco principal em construir uma narrativa baseada nos dados apresentados em uma ordem específica.
+Esta página apresenta a representação do papel das cidades de São José dos Campos e Taubaté na exportação e importação da cadeia produtiva aeronáutica. A página inclui filtros e gráficos que demonstram a participação das cidades na movimentação de produtos, além de sua variação ao longo de um período de dois anos.
+Essas alterações visam aprimorar a clareza e a fluidez do texto, fornecendo informações mais precisas sobre o conteúdo da página e seus elementos visuais.
+
+<div align="center">
+  <img src="./Documents/Image1.png"/>
+
+Nesta visualização, apresentamos um comparativo das movimentações de exportação e importação no setor aeronáutico.
+    
+<div align="center">
+  <img src="./Documents/Image2.png"/>
+  
+Na presente visualização, destacamos as principais informações da análise SWOT de forma clara e concisa.
+  
+<div align="center">
+  <img src="./Documents/Image3.png"/>
   
 # Entregas
 
 - [Sprint 1](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint1) entrega realizada em 03/04/2023.
 - [Sprint 2](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2) entrega realizada em 27/04/2023.
-- [Sprint 2](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2) entrega realizada em 27/04/2023.
+- [Sprint 2](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint3) entrega realizada em 08/06/2023.
 
 # Tecnologias
 
