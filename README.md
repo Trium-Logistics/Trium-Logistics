@@ -8,10 +8,10 @@
 
 # Sumário
 
-    * [Produto](#produto)
-    * [Entrega](#entregas)
-    * [Tecnologias](#tecnologias)
-    * [Autores](#autores)
+   * [Produto](#produto)
+   * [Entrega](#entregas)
+   * [Tecnologias](#tecnologias)
+   * [Autores](#autores)
   
  # Produto
   
