@@ -7,18 +7,18 @@
 
 
 # Sumário
-https://app.powerbi.com/links/x_VrtJg5hk?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
-   * [Entregas](#entregas)
+   * [Prduto](#produto)
    * [Entregas](#entregas)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
 
-# Sprint 2 
+# Produto
+  Link para acessar ao prodto
+  https://app.powerbi.com/links/x_VrtJg5hk?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
   
-  ### Acesso a Sprint 2
+Na etapa inicial, foi realizado o download de quatro tabelas de fatos, em arquivos csv, dos anos de 2022 e 2021, divididas entre importações e exportações, a partir da base de dados do Comex Stat. Em seguida, foram adquiridas três tabelas de dimensões que caracterizavam países, municípios e produtos (SH4).  
   
-  - [Sprint 2]([https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2](https://app.powerbi.com/links/x_VrtJg5hk?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
-
+  
 # Entregas
 
 - [Sprint 1](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint1) entrega realizada em 03/04/2023.
