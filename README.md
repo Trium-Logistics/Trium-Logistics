@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./Logo.png" height="400" width="400"/>
+  <img src="./Documents/Logo.png" height="400" width="400"/>
 <p align="center">Experiência sem fronteiras.</p>
 
 
@@ -11,7 +11,33 @@
    * [Entrega](#entregas)
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
+  
+ # Produto
+  
+Foram solicitados os dados de importação e exportação da Região Metropolitana do Vale do Paraíba e Litoral Norte (RMVALE). Com base nessas informações, foi aplicado um filtro para destacar as principais cadeias produtivas e os principais produtos em termos de valor FOB. O objetivo final era criar um painel interativo utilizando o próprio Excel, no qual seriam representados os países que mais importam e exportam em relação à região, produtos e anos. Para isso, foram utilizados filtros que diferenciam os gráficos, proporcionando uma visualização mais clara e personalizada dos dados. 
 
+A seguir estão os gráficos com seus respectivos filtros, que representam as variáveis mencionadas anteriormente. Cada ponto nos gráficos busca retratar informações que podem ser filtradas utilizando as tabelas localizadas ao lado. 
+
+Neste gráfico, o foco está em identificar os países para os quais a região mais exporta, utilizando filtros de anos e países. 
+
+<div align="center">
+  <img src="./Documents/Image1.png"/>
+
+Neste gráfico, o objetivo principal é visualizar os países que são os principais destinos das importações da região, utilizando filtros de anos e países para personalizar a análise. 
+  
+<div align="center">
+  <img src="./Documents/Image2.png"/>
+  
+Neste gráfico, a intenção é examinar os produtos mais importados pela região, utilizando filtros de código e anos para uma análise mais detalhada e específica. 
+  
+<div align="center">
+  <img src="./Documents/Image3.png"/>
+
+Neste gráfico, o objetivo é analisar os produtos mais exportados pela região, utilizando filtros de código e anos para uma análise mais específica. 
+  
+<div align="center">
+  <img src="./Documents/Image4.png"/>
+  
 # Entregas
 
 - [Sprint 1](https://github.com/marcelouchoas/Trium-Logistics/blob/Sprint-1/README.md) entrega realizada em 03/04/2023.
