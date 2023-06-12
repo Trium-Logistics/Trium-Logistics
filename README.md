@@ -47,12 +47,6 @@ Adicionando também, capturas de tela que apresentam as páginas do dashboard qu
    
 A diferença entre as páginas estava relacionada ao tipo de fato (exportação ou importação) e ao ano (2021 ou 2022), oferecendo diferentes perspectivas sobre os dados. 
    
-# Entregas
-
-- [Sprint 1](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint1) entrega realizada em 03/04/2023.
-- [Sprint 2](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2) entrega realizada em 27/04/2023.
-
-
 # Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
