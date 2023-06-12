@@ -66,3 +66,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center"><a href="https://github.com/marciasoaresa"><img src="https://avatars.githubusercontent.com/u/129190035?v=4" width="100px;" alt=""/><br /><sub>       <b>Márcia<br>Scrum Team</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Scrum Team"></a></td>    
     <td align="center"><a href="https://github.com/rafaslivka"><img src="https://avatars.githubusercontent.com/u/129512938?v=4" width="100px;" alt=""/><br /><sub>          <b>Rafael<br>Scrum Team</b></sub></a><br /><a href="https://github.com/marcelouchoas/Trium-Logistics" title="Scrum Team"></a></td> 
 </table>
+   
+  
+  Para retornar a main clique [aqui.](https://github.com/Trium-Logistics/Trium-Logistics/tree/main)
