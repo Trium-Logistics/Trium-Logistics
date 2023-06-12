@@ -30,7 +30,7 @@ A integração das funções dos colaboradores, o respeito por hierarquias, a ex
 
 - [Sprint 1](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint1) entrega realizada em 03/04/2023.
 - [Sprint 2](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint2) entrega realizada em 27/04/2023.
-
+- [Sprint 3](https://github.com/Trium-Logistics/Trium-Logistics/tree/Sprint3) entrega realizada em 01/06/2023.
 
 # Tecnologias
 
