@@ -16,7 +16,7 @@
   
 # Missão
 
-A missão da Trium Logistics é inovar as cadeias produtivas em toda a RMVale, utilizando uma metodologia ágil e valorizando nossos valores e capacidades, sempre com o objetivo de satisfazer nossos clientes. 
+Consiste em inovar na descrição e mapeamento das cadeias produtivas em toda a RMVale, utilizando uma metodologia ágil e valorizando nossos valores e capacidades, sempre com o objetivo de satisfazer nossos clientes.
   
 # Visão
 
