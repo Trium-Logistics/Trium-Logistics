@@ -24,7 +24,7 @@ Nossa visão é nos tornarmos referência na área em que atuamos, valorizando a
   
 # Valores
 
-A integração das funções dos colaboradores, o respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional e a satisfação de nossos clientes são valores fundamentais da Trium Logistics. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
+O respeito por hierarquias, a excelência em serviços, a dedicação e o comprometimento com o desenvolvimento organizacional e a satisfação de nossos clientes são valores fundamentais. Além disso, a empresa valoriza a ética, a integridade e a transparência em todas as suas ações.
   
 # Entregas
 
